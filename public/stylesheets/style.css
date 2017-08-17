@@ -1,0 +1,94 @@
+body{
+	color:black;
+	width: 90%;
+	margin: 0 auto;
+}
+.jumbotron{
+	background-color: transparent;
+}
+.myPopoverContent{
+	margin: 0 auto !important;
+	background-color: #fff !important;
+	color:#000;
+	position: relative;
+	z-index: 10;
+	padding: 10px;
+}
+.popover{
+    width:700px;   
+}
+
+.add-form{
+	padding: 0px;
+	margin: 0 auto;
+	width: 100%;
+
+}
+.form-edit input{
+    background-color: #fff;
+	margin: 0 auto;
+}
+.table-responsive{
+	width: 100%;
+}
+table.table{
+	background-color: white;
+	width: 100%;
+	margin: 0 auto;
+	border: 2px solid gray !important;
+}
+/*#table{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+}*/
+
+thead>tr{
+	height: 48px;
+	padding-top: 12px !important;
+	padding-bottom: 12px;
+	
+}
+th{
+	padding-left: 24px !important;
+	color: #000;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: 500px;
+}
+
+tr{
+	height: 72px;
+
+}
+td{
+	padding-bottom: 24px;
+	padding-left: 24px !important;
+	padding-top: 24px !important;
+	color: #505050;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 400px;
+}
+
+
+.glyphicon{
+	color:#909090;
+	height: 24px;
+	width: 24px;
+}
+
+tbody{
+	width: 100%;
+}
+
+.footer{
+	margin-top: 20px;
+	background-color:#ccc; 
+	padding:20px;
+        font-style: italic;
+	color:#333333;
+	text-align: center;	
+	z-index: -1;
+
+}
